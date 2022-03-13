@@ -13,7 +13,7 @@ Simply, remove the `Fully Connected layer head` from the pre-trained network (la
 
 
 **Transfer Learning Steps:**
-- Taking a pre-trained CNN model (typically on the ImageNet dataset).
+- Taking a pre-trained CNN model (Typically on the ImageNet dataset).
 - Removing the FC layer head from the CNN.
 - Treating the output of the body of the network as an arbitrary feature extractor with spatial dimensions M × N × C.
 
