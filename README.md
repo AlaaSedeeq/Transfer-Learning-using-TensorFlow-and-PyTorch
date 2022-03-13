@@ -17,5 +17,5 @@ Simply, remove the `Fully Connected layer head` from the pre-trained network (la
 - Removing the FC layer head from the CNN.
 - Treating the output of the body of the network as an arbitrary feature extractor with spatial dimensions M × N × C.
 
-I'm going to use the pre-trained [Resnet](https://arxiv.org/abs/1512.03385)
-<img src="resnet50.jpg" hieght="100" width="700">
+I'm going to use the pre-trained [Resnet](https://arxiv.org/abs/1512.03385)<br><br>
+<img src="resnet50.jpg" hieght="500" width="500">
